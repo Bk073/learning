@@ -1,5 +1,5 @@
 # learning 
-Reference ![](https://github.com/amitness/learning)
+Reference ![Amit Dai](https://github.com/amitness/learning)
 
 
 <p align="center">
