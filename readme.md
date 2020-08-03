@@ -114,8 +114,7 @@ Reference ![Amit Dai](https://github.com/amitness/learning)
 - [ ] [Udacity: Database Systems Concepts & Design](https://www.udacity.com/course/database-systems-concepts-design--ud150)
 
 ### Be able to use the command line
-- [ ] [Bash Academy](http://guide.bash.academy)
-- [ ] [Bash Programming](http://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO.html)
+- [X] [Bash Programming](http://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO.html)
 - [ ] [Codecademy: Learn the Command Line](https://www.codecademy.com/learn/learn-the-command-line)
 - [ ] [CONQUERING THE COMMAND LINE](http://conqueringthecommandline.com/book)
 - [ ] [Datacamp: Introduction to Shell for Data Science](https://www.datacamp.com/courses/introduction-to-shell-for-data-science)
