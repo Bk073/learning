@@ -119,7 +119,7 @@ Reference ![Amit Dai](https://github.com/amitness/learning)
 - [ ] [Codecademy: Learn the Command Line](https://www.codecademy.com/learn/learn-the-command-line)
 - [ ] [CONQUERING THE COMMAND LINE](http://conqueringthecommandline.com/book)
 - [ ] [Datacamp: Introduction to Shell for Data Science](https://www.datacamp.com/courses/introduction-to-shell-for-data-science)
-- [ ] [Datacamp: Data Processing in Shell](https://www.datacamp.com/courses/data-processing-in-shell)
+- [X] [Datacamp: Data Processing in Shell](https://www.datacamp.com/courses/data-processing-in-shell)
 - [ ] [LaunchSchool: Introduction to Commandline](https://launchschool.com/books/command_line)
 - [ ] [Learn Enough Command Line to be dangerous](http://www.learnenough.com/command-line-tutorial)
 - [ ] [Thoughtbot: Mastering the Shell](https://thoughtbot.com/upcase/mastering-the-shell)
@@ -229,8 +229,8 @@ Reference ![Amit Dai](https://github.com/amitness/learning)
   - [ ] Lecture 2
   - [ ] Lecture 3
   - [ ] Lecture 4
-  - [ ] Lecture 5
-  - [ ] Lecture 6
+  - [X] Lecture 5
+  - [X] Lecture 6
   - [ ] Lecture 9
   - [ ] Lecture 11
   - [ ] Lecture 14
