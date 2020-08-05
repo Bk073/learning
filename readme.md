@@ -230,7 +230,7 @@ Reference ![Amit Dai](https://github.com/amitness/learning)
   - [ ] Lecture 4
   - [X] Lecture 5
   - [X] Lecture 6
-  - [ ] Lecture 9
+  - [X] Lecture 9
   - [ ] Lecture 11
   - [ ] Lecture 14
   - [ ] Lecture 15
