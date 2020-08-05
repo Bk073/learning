@@ -380,6 +380,7 @@ Reference ![Amit Dai](https://github.com/amitness/learning)
 - [ ] [Youtube: NLP Masterclass | Modeling Fallacies in NLP](https://youtu.be/f2m6Mon0VE8?t=223)
 - [ ] [Youtube: What is GPT-3? Showcase, possibilities, and implications](https://youtu.be/5fq POaaqi0)
 - [ ] [Youtube: Te tAttack: A Framework for Data Augmentation and Adversarial Training in NLP](https://youtu.be/VpLAjOQHaLU?list=LLqn7Nv8Zg6tWbBonrUOJGwQ)
+- [X] [Datacamp: Introduction to NLP in python](https://campus.datacamp.com/courses/introduction-to-natural-language-processing-in-python)
 
 ### Be able to model graphs and network data
 - [ ] [Datacamp: Network Analysis in Python (Part 1)](https://www.datacamp.com/courses/network-analysis-in-python-part-1)
