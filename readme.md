@@ -240,6 +240,10 @@ Reference ![Amit Dai](https://github.com/amitness/learning)
   - [ ] Lecture 16
   - [ ] Lecture 17
   - [ ] Lecture 21
+ - [ ] [MIT:Introduction to probability](https://ocw.mit.edu/resources/res-6-012-introduction-to-probability-spring-2018/)
+  - [ ] [Part 1: The fundamentals]
+  - [ ] [Part 2: Inference & Limit Theorems]
+  - [ ] [Part 3: Random Processes]
 - [ ] [Udacity: Algebra Review](https://www.udacity.com/course/intro-algebra-review--ma004)
 - [ ] [Udacity: Differential Equations in Action](https://www.udacity.com/course/differential-equations-in-action--cs222)
 - [ ] [Udacity: Eigenvectors and Eigenvalues](https://www.udacity.com/course/eigenvectors-and-eigenvalues--ud104)
