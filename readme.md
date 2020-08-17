@@ -236,7 +236,7 @@ Reference ![Amit Dai](https://github.com/amitness/learning)
   - [X] Lecture 10
   - [ ] Lecture 11
   - [X] Lecture 14
-  - [ ] Lecture 15
+  - [X] Lecture 15
   - [ ] Lecture 16
   - [ ] Lecture 17
   - [ ] Lecture 21
