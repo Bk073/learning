@@ -238,7 +238,7 @@ Reference ![Amit Dai](https://github.com/amitness/learning)
   - [X] Lecture 14
   - [X] Lecture 15
   - [X] Lecture 16
-  - [ ] Lecture 17
+  - [X] Lecture 17
   - [ ] Lecture 21
  - [ ] [MIT:Introduction to probability](https://ocw.mit.edu/resources/res-6-012-introduction-to-probability-spring-2018/)
   - [ ] [Part 1: The fundamentals]
