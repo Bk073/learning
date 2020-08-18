@@ -239,7 +239,12 @@ Reference ![Amit Dai](https://github.com/amitness/learning)
   - [X] Lecture 15
   - [X] Lecture 16
   - [X] Lecture 17
-  - [ ] Lecture 21
+  - [X] Lecture 21
+  - [ ] Lecture 22
+  - [ ] Lecture 30
+  - [ ] Lecture 31
+  - [ ] Lecture 33
+  - [ ] Lecture 34
  - [ ] [MIT:Introduction to probability](https://ocw.mit.edu/resources/res-6-012-introduction-to-probability-spring-2018/)
   - [ ] [Part 1: The fundamentals]
   - [ ] [Part 2: Inference & Limit Theorems]
