@@ -29,6 +29,9 @@ Reference ![Amit Dai](https://github.com/amitness/learning)
 - [ ] [Udacity: App Marketing](https://www.udacity.com/course/app-marketing--ud719)
 - [ ] [Udacity: Get Your Startup Started](https://www.udacity.com/course/get-your-startup-started--ud806)
 - [ ] [Udacity: How to Build a Startup](https://www.udacity.com/course/how-to-build-a-startup--ep245)
+### Lectures on ML and Data science
+- [ ] [Pattern Recognition (following Bishop book)]
+- [ ] [Lecture 1: Intro to pattern recognitino](https://www.youtube.com/watch?v=Z66_2_VG_k8&list=PLzfPozcSd1F9d5UpibE9w6yEAkuW_qFjf&index=1)
 
 ### Be able to frame a ML problem
 - [ ] [AWS: Types of Machine Learning Solutions](https://www.aws.training/learningobject/video?id=27224)
