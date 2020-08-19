@@ -259,6 +259,7 @@ Reference ![Amit Dai](https://github.com/amitness/learning)
 - [ ] [Udacity: Statistics](https://www.udacity.com/course/statistics--st095)
 - [ ] [Udacity: Intro to Descriptive Statistics](https://www.udacity.com/course/intro-to-descriptive-statistics--ud827)
 - [ ] [Udacity: Intro to Inferential Statistics](https://www.udacity.com/course/intro-to-inferential-statistics--ud201)
+- [ ] [MIT statistics(open course ware)](https://www.youtube.com/playlist?list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6)
 
 ### Be able to structure machine learning projects
 - [ ] [Coursera: Structuring Machine Learning Projects](https://www.coursera.org/learn/machine-learning-projects?specialization=deep-learning)
