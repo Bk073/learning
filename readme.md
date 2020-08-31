@@ -261,6 +261,24 @@ Reference ![Amit Dai](https://github.com/amitness/learning)
 - [ ] [Udacity: Intro to Inferential Statistics](https://www.udacity.com/course/intro-to-inferential-statistics--ud201)
 - [ ] [MIT statistics(open course ware)](https://www.youtube.com/playlist?list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6)
 
+### Graphical Neural Network(GNN)
+- [ ] [Standford: Machine Learning with Graphs-Fall 2019](https://www.youtube.com/playlist?list=PL-Y8zK4dwCrQyASidb2mjj_itW2-YYx6-)
+  - [X] Lecture 1
+  - [ ] Lecture 2
+  - [ ] Lecture 3
+  - [ ] Lecture 4
+  - [ ] Lecture 5
+  - [ ] Lecture 6
+  - [ ] Lecture 7
+  - [ ] Lecture 8
+  - [ ] Lecture 9
+  - [ ] Lecture 10
+  - [ ] Lecture 11
+  - [ ] Lecture 12
+  - [ ] Lecture 13
+  - [ ] Lecture 14
+  - [ ] Lecture 15
+  - [ ] Lecture 16
 ### Be able to structure machine learning projects
 - [ ] [Coursera: Structuring Machine Learning Projects](https://www.coursera.org/learn/machine-learning-projects?specialization=deep-learning)
 - [ ] [Datacamp: Conda Essentials](https://www.datacamp.com/courses/conda-essentials)
