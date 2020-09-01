@@ -264,11 +264,11 @@ Reference ![Amit Dai](https://github.com/amitness/learning)
 ### Graphical Neural Network(GNN)
 - [ ] [Standford: Machine Learning with Graphs-Fall 2019](https://www.youtube.com/playlist?list=PL-Y8zK4dwCrQyASidb2mjj_itW2-YYx6-)
   - [X] Lecture 1
-  - [ ] Lecture 2
+  - [X] Lecture 2
   - [ ] Lecture 3
   - [ ] Lecture 4
   - [ ] Lecture 5
-  - [ ] Lecture 6
+  - [X] Lecture 6
   - [ ] Lecture 7
   - [ ] Lecture 8
   - [ ] Lecture 9
