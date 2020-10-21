@@ -376,7 +376,8 @@ Reference ![Amit Dai](https://github.com/amitness/learning)
 
 ### Be able to implement NLP models
 - [ ] [Standford: NLP with Deep Learning 2019](https://www.youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z)
-[Website](https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1194/)
+[Website-1](https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1194/)
+[syllabus-2](http://cs224d.stanford.edu/syllabus.html)
   - [ ] Lecture 1
   - [ ] Lecture 2
   - [ ] Lecture 3
