@@ -243,7 +243,7 @@ Reference ![Amit Dai](https://github.com/amitness/learning)
   - [X] Lecture 16
   - [X] Lecture 17
   - [X] Lecture 21
-  - [ ] Lecture 22
+  - [X] Lecture 22
   - [ ] Lecture 30
   - [ ] Lecture 31
   - [ ] Lecture 33
@@ -375,6 +375,28 @@ Reference ![Amit Dai](https://github.com/amitness/learning)
 - [ ] [Udacity: Introduction to Computer Vision](https://www.udacity.com/course/introduction-to-computer-vision--ud810)
 
 ### Be able to implement NLP models
+- [ ] [Standford: NLP with Deep Learning 2019](https://www.youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z)
+[Website](https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1194/)
+  - [ ] Lecture 1
+  - [ ] Lecture 2
+  - [ ] Lecture 3
+  - [ ] Lecture 4
+  - [ ] Lecture 5
+  - [X] Lecture 6
+  - [ ] Lecture 7
+  - [ ] Lecture 8
+  - [ ] Lecture 9
+  - [ ] Lecture 10
+  - [ ] Lecture 11
+  - [ ] Lecture 12
+  - [ ] Lecture 13
+  - [ ] Lecture 14
+  - [ ] Lecture 15
+  - [ ] Lecture 16
+  - [ ] Lecture 17
+  - [ ] Lecture 18
+  - [ ] Lecture 19
+  - [ ] Lecture 20
 - [ ] [A friendly introduction to Recurrent Neural Networks](https://www.youtube.com/watch?v=UNmqTiOnRfg)
 - [ ] [Coursera: Sequence Models](https://www.coursera.org/learn/nlp-sequence-models)
 - [ ] [Coursera: Natural Language Processing in TensorFlow](https://www.coursera.org/learn/natural-language-processing-tensorflow)
