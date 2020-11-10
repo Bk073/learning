@@ -385,7 +385,7 @@ Reference ![Amit Dai](https://github.com/amitness/learning)
   - [ ] Lecture 5
   - [X] Lecture 6
   - [X] Lecture 7
-  - [ ] Lecture 8
+  - [X] Lecture 8
   - [ ] Lecture 9
   - [ ] Lecture 10
   - [ ] Lecture 11
