@@ -547,7 +547,7 @@ Reference ![Amit Dai](https://github.com/amitness/learning)
 - [ ] [Udacity: Developing Scalable Apps in Python](https://www.udacity.com/course/developing-scalable-apps-in-python--ud858)
 - [ ] [Udacity: Configuring Linu  Web Servers](https://www.udacity.com/course/configuring-linu -web-servers--ud299)
 - [ ] [Udacity: Scalable Microservices with Kubernetes](https://www.udacity.com/course/scalable-microservices-with-kubernetes--ud615)
-- [ ] [Udemy: AWS Concepts](https://www.udemy.com/aws-concepts)
+- [X] [Udemy: AWS Concepts](https://www.udemy.com/aws-concepts)
 - [ ] [Udemy: Serverless Concepts](https://www.udemy.com/serverless-concepts/)
 - [ ] [Udemy: AWS Certified Developer - Associate 2018](https://www.udemy.com/aws-certified-developer-associate/)
 
