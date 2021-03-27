@@ -279,6 +279,26 @@ Reference ![Amit Dai](https://github.com/amitness/learning)
   - [ ] Lecture 14
   - [ ] Lecture 15
   - [ ] Lecture 16
+ 
+### Full Stack Deep Learning
+- [ ] [Full Stack Deep Learning-Fall 2019](https://www.youtube.com/playlist?list=PL1T8fO7ArWlcWg04OgNiJy91PywMKT2lv)
+  - [X] Lecture 1
+  - [ ] Lecture 2
+  - [ ] Lecture 3
+  - [ ] Lecture 4
+  - [ ] Lecture 5
+  - [ ] Lecture 6
+  - [ ] Lecture 7
+  - [ ] Lecture 8
+  - [ ] Lecture 9
+  - [ ] Lecture 10
+  - [ ] Lecture 11
+  - [ ] Lecture 12
+  - [ ] Lecture 13
+  - [ ] Lecture 14
+  - [ ] Lecture 15
+  - [ ] Lecture 16
+  
 ### Be able to structure machine learning projects
 - [ ] [Coursera: Structuring Machine Learning Projects](https://www.coursera.org/learn/machine-learning-projects?specialization=deep-learning)
 - [ ] [Datacamp: Conda Essentials](https://www.datacamp.com/courses/conda-essentials)
@@ -584,7 +604,7 @@ Reference ![Amit Dai](https://github.com/amitness/learning)
 - [ ] [Datacamp: Python Data Science Toolbo  (Part 1)](https://www.datacamp.com/courses/python-data-science-toolbo -part-1)
 - [ ] [Datacamp: Python Data Science Toolbo  (Part 2)](https://www.datacamp.com/courses/python-data-science-toolbo -part-2)
 - [ ] [Datacamp: Intro to Python for Finance](https://www.datacamp.com/courses/intro-to-python-for-finance)
-- [ ] [Datacamp: Writing Efficient Python Code](https://www.datacamp.com/courses/writing-efficient-python-code)
+- [X] [Datacamp: Writing Efficient Python Code](https://www.datacamp.com/courses/writing-efficient-python-code)
 - [ ] [Datacamp: Writing Functions in Python](https://www.datacamp.com/courses/writing-functions-in-python)
 - [ ] [Datacamp: Working with Dates and Times in Python](https://www.datacamp.com/courses/working-with-dates-and-times-in-python)
 - [ ] [ed : Introduction to Python for Data Science](https://www.ed .org/course/introduction-python-data-science-microsoft-dat208 -7)
