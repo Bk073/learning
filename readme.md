@@ -282,14 +282,14 @@ Reference ![Amit Dai](https://github.com/amitness/learning)
  
 ### Full Stack Deep Learning
 - [ ] [Full Stack Deep Learning-Fall 2019](https://www.youtube.com/playlist?list=PL1T8fO7ArWlcWg04OgNiJy91PywMKT2lv)
-  - [X] Lecture 1
-  - [ ] Lecture 2
-  - [ ] Lecture 3
-  - [ ] Lecture 4
-  - [ ] Lecture 5
-  - [ ] Lecture 6
-  - [ ] Lecture 7
-  - [ ] Lecture 8
+  - [X] Lecture 1(Fundamentals of Deep learning)
+  - [X] Lecture 2(CNN)
+  - [ ] Lecture 3(Computer Vision Applications)
+  - [ ] Lecture 4(RNN)
+  - [ ] Lecture 5(RNNs)
+  - [ ] Lecture 6(Transfer learning and Transformer)
+  - [ ] Lecture 7(Transformer)
+  - [ ] Lecture 8(ML Projects)
   - [ ] Lecture 9
   - [ ] Lecture 10
   - [ ] Lecture 11
