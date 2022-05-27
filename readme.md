@@ -576,6 +576,8 @@ Reference ![Amit Dai](https://github.com/amitness/learning)
 - [ ] [Udacity: A/B Testing](https://www.udacity.com/course/ab-testing--ud257)
 - [ ] [Udacity: A/B Testing for Business Analysts](https://www.udacity.com/course/ab-testing--ud979)
 
+### Elastic Search
+- [X] [PluralSight: Searching and Analyzing Data with Elasticsearch](https://app.pluralsight.com/library/courses/elasticsearch-analyzing-data/table-of-contents)
 ### Be able to write unit tests
 - [ ] [Datacamp: Unit Testing for Data Science in Python](https://www.datacamp.com/courses/unit-testing-for-data-science-in-python)
 - [ ] [Pluralsight: Test-driven Development: The Big Picture](https://www.pluralsight.com/courses/test-driven-development-big-picture)
