@@ -115,6 +115,7 @@ Reference ![Amit Dai](https://github.com/amitness/learning)
 - [ ] [Udacity: SQL for Data Analysis](https://www.udacity.com/course/sql-for-data-analysis--ud198)
 - [ ] [Udacity: Intro to relational database](https://www.udacity.com/course/intro-to-relational-databases--ud197)
 - [ ] [Udacity: Database Systems Concepts & Design](https://www.udacity.com/course/database-systems-concepts-design--ud150)
+- [X] [Plural Sight: Introduction to MongoDB](https://app.pluralsight.com/library/courses/mongodb-introduction/)
 
 ### Be able to use the command line
 - [ ] [Bash Programming](http://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO.html)
@@ -151,7 +152,7 @@ Reference ![Amit Dai](https://github.com/amitness/learning)
 - [ ] [Google: Feature Engineering](https://www.coursera.org/learn/feature-engineering)
 - [ ] [Udacity: Creating an Analytical Dataset](https://www.udacity.com/course/creating-an-analytical-dataset--ud977)
 
-### Be able to e periment in notebook
+### Be able to experiment in notebook
 - [ ] [Pluralsight: Getting Started with Jupyter Notebook and Python](https://www.pluralsight.com/courses/jupyter-notebook-python)
 
 ### Be able to visualize data
